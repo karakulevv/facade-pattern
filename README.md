@@ -23,6 +23,7 @@ Consider a Home Theater System as an analogy. The system consists of various com
 
 This example demonstrates how the Facade Pattern improves the user experience of a Home Theater System by encapsulating the complexities of subsystem components.
 
+
 ##Purpose
 Simplifies the usage of a complex system by providing a high-level interface.
 Encapsulates the interactions with multiple subsystem components.
